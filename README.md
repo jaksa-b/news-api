@@ -1,6 +1,16 @@
-# Getting Started with Create React App
+# Search Aylien news api stories
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In order to access API you have to register for the News API and follow the following documentations:
+
+Registration form for the News API service: [https://newsapi.aylien.com/signup](https://newsapi.aylien.com/signup)
+
+After signup add your `APP_ID` and `API_KEY` in `.env` file at the root of the project.
+
+```
+REACT_APP_API_URL="https://api.aylien.com/news"
+REACT_APP_AYLIEN_APP_ID="APP_ID"
+REACT_APP_AYLIEN_APP_KEY="API_KEY"
+```
 
 ## Available Scripts
 
