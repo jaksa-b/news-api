@@ -14,6 +14,10 @@ REACT_APP_AYLIEN_APP_KEY="API_KEY"
 
 ## Available Scripts
 
+To install packages run:
+
+### `yarn`
+
 In the project directory, you can run:
 
 ### `yarn start`
